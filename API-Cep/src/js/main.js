@@ -1,3 +1,4 @@
+alert('foi')
 const cep = document.querySelector("#cep")
 
 const showData =(result)=>{
